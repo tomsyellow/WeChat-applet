@@ -1,7 +1,7 @@
 # WeChat-applet
 随便瞎写的  哈哈哈哈学习记录       微信小程序   教书后台系统 功能比较简陋 哈哈哈
 
-xml+js + express node.js的一些api + 小程序的api
+xml + js + express node.js的一些api + 小程序的api
 
 简单的后台用express写的账号和密码的数据
 
