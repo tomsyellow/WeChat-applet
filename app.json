@@ -1,0 +1,27 @@
+{ "pages":[
+    "pages/login/login",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor":"#fff",
+    "navigationBarTitleText":"微信",
+    "navigationBarTextStyle": "black"
+  } ,
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/login/login",
+      "text": "登录",
+      "iconPath": "pages/login/5b18e39dNc73f336f.jpg",
+      "selectedIconPath": "pages/login/5b18e39dNc73f336f.jpg"
+    },
+    {
+      "pagePath": "pages/index/index",
+      "text": "页面",
+      "iconPath": "pages/index/u=717693453,433096987&fm=26&gp=0.jpg",
+      "selectedIconPath": "pages/index/u=717693453,433096987&fm=26&gp=0.jpg"
+    }]
+  }
+}

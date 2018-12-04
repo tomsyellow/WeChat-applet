@@ -1,0 +1,7 @@
+<!--pages/index/index.wxml-->
+<view>
+  <view class='xixi'>
+    <text>我是一个美女页面,嘿嘿</text>
+    <image src='./u=717693453,433096987&fm=26&gp=0.jpg'></image>
+  </view>
+</view>

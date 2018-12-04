@@ -1,0 +1,11 @@
+/* pages/logs/logs.wxss */
+.formSubmit {
+  width: 300px;
+  height: 300px;
+  line-height: 20px;
+}
+input{
+  border: 1px solid black;
+  width: 300px;
+  height: 200px;
+}

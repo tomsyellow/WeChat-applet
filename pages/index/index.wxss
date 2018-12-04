@@ -1,0 +1,12 @@
+/* pages/index/index.wxss */
+.xixi text{
+  font-size: 30px;
+  text-align: center;
+  display: block;
+  font-weight: bold;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  color: chartreuse
+}
+
+

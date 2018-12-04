@@ -1,0 +1,44 @@
+.container{
+  margin: 0 auto
+}
+.header{
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 20px;
+  color: darkcyan
+}
+.formSubmit{
+  width: 300px;
+  height: 300px;
+  text-align: center
+}
+input{
+  width: 300px;
+  height: 35px;
+  border: 1px solid darkcyan;
+  border-radius: 20%;
+  margin: 0 auto;
+}
+.section{
+  margin-top: 5px;
+}
+.section text{
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 10px;
+  margin-top: 10px;
+  color: palegreen
+}
+.button{
+  width: 300px;
+  height: 40px;
+  margin-top: 30px;
+  margin: 30px auto
+}
+.fpwd{
+  margin-top: 10px;
+  margin-left: 15px;
+  font-size: 15px;
+  font-weight: bold;
+}
